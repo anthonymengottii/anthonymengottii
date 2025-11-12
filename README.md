@@ -85,10 +85,10 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 ### 🧩 Current Focus | Foco Atual
 
 **🇺🇸 EN:**  
-Building next-generation payment ecosystems — connecting digital banking, streaming, and real-time financial data.
+Building next-generation payment ecosystems connecting digital banking, streaming, and real-time financial data.
 
 **🇧🇷 PT:**  
-Construindo ecossistemas de pagamento de nova geração — conectando banco digital, streaming e dados financeiros em tempo real.
+Construindo ecossistemas de pagamento de nova geração conectando banco digital, streaming e dados financeiros em tempo real.
 
 ---
 
