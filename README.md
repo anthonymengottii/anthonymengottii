@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Anthony Mengotti</h1>
-<h3 align="center">CTO @ Upay | Creator of PagueStream | Fintech & Tech Builder</h3>
+<h3 align="center">CTO @ Upay • Creator of PagueStream • Fintech & Tech Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anthony-mengotti-50026424a/" target="_blank">
@@ -32,16 +32,18 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats | Estatísticas
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=anthonymengottii&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" 
+    src="https://github-readme-stats.vercel.app/api?username=anthonymengottii&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github"
     height="150"
+    alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymengottii&layout=compact&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymengottii&layout=compact&theme=transparent&hide_border=true"
     height="150"
+    alt="Top Languages"
   />
 </p>
 
@@ -52,7 +54,7 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Upay</h3>
+      <h3 align="center">🏦 Upay</h3>
       <p align="center">
         <a href="https://github.com/anthonymengottii/upay_sistema" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonymengottii&repo=upay_sistema&theme=transparent&hide_border=true" />
@@ -64,7 +66,7 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">PagueStream</h3>
+      <h3 align="center">📺 PagueStream</h3>
       <p align="center">
         <a href="https://github.com/anthonymengottii/paguestream" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonymengottii&repo=paguestream&theme=transparent&hide_border=true" />
@@ -83,17 +85,16 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 ### 🧩 Current Focus | Foco Atual
 
 **🇺🇸 EN:**  
-Building next-generation payment ecosystems, connecting digital banking, streaming, and real-time financial data.
+Building next-generation payment ecosystems — connecting digital banking, streaming, and real-time financial data.
 
 **🇧🇷 PT:**  
-Construindo ecossistemas de pagamento de nova geração, conectando banco digital, streaming e dados financeiros em tempo real.
+Construindo ecossistemas de pagamento de nova geração — conectando banco digital, streaming e dados financeiros em tempo real.
 
 ---
 
 ### 🧭 Philosophy | Filosofia
 
-> "The future belongs to those who can architect it."  
-
+> “The future belongs to those who can architect it.”  
 > “O futuro pertence àqueles que são capazes de arquitetá-lo.”
 
 ---
