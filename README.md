@@ -47,6 +47,39 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 
 ---
 
+### 🚀 Featured Projects | Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Upay</h3>
+      <p align="center">
+        <a href="https://github.com/anthonymengottii/upay_sistema" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonymengottii&repo=upay_sistema&theme=transparent&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">
+        <em>Next-generation payment gateway and digital banking infrastructure.</em><br/>
+        <sub>Gateway de pagamentos e infraestrutura bancária digital.</sub>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">PagueStream</h3>
+      <p align="center">
+        <a href="https://github.com/anthonymengottii/paguestream" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonymengottii&repo=paguestream&theme=transparent&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">
+        <em>Streaming monetization platform powered by fintech technology.</em><br/>
+        <sub>Plataforma de monetização de streaming com tecnologia financeira.</sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🧩 Current Focus | Foco Atual
 
 **🇺🇸 EN:**  
