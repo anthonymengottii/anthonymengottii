@@ -92,9 +92,9 @@ Construindo ecossistemas de pagamento de nova geração, conectando banco digita
 
 ### 🧭 Philosophy | Filosofia
 
-> "Technology is not about building tools — it's about enabling people and creating seamless experiences."
+> "The future belongs to those who can architect it."  
 
-> “Tecnologia não é sobre construir ferramentas — é sobre possibilitar pessoas e criar experiências sem atrito.”
+> “O futuro pertence àqueles que são capazes de arquitetá-lo.”
 
 ---
 
