@@ -1,104 +1,209 @@
 <h1 align="center">👋 Hey, I'm Anthony Mengotti</h1>
+
 <h3 align="center">CTO @ Upay • Creator of PagueStream • Fintech & Tech Builder</h3>
 
+
+
 <p align="center">
+
   <a href="https://www.linkedin.com/in/anthony-mengotti-50026424a/" target="_blank">
+
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
   </a>
+
   <a href="mailto:contact@anthonymengotti.dev">
+
     <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
   </a>
+
 </p>
 
+
+
 ---
+
+
 
 ### 🧠 About Me | Sobre mim
 
+
+
 **🇺🇸 EN:**  
+
 I'm a fintech-focused software architect and product strategist, passionate about building scalable payment infrastructures and seamless digital experiences.  
+
 Currently, I'm **CTO at Upay**, leading architecture and innovation, and the **creator of PagueStream**, a platform focused on streaming monetization.  
 
+
+
 **🇧🇷 PT:**  
+
 Sou arquiteto de software e estrategista de produto com foco em fintechs, apaixonado por criar infraestruturas de pagamento escaláveis e experiências digitais fluidas.  
+
 Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador da PagueStream**, plataforma voltada à monetização de streaming.
 
+
+
 ---
+
+
 
 ### ⚙️ Tech Stack | Stack Técnica
 
+
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,python,prisma,mongodb,postgres,docker,git,linux" />
+
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,python,prisma,mongodb,postgres,docker,git,linux" alt="Tech Stack" />
+
 </p>
 
+
+
 ---
+
+
 
 ### 📊 GitHub Stats | Estatísticas
 
+
+
 <p align="center">
+
   <img 
+
     src="https://github-readme-stats.vercel.app/api?username=anthonymengottii&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github"
+
     height="150"
+
     alt="GitHub Stats"
+
   />
+
   <img 
+
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymengottii&layout=compact&theme=transparent&hide_border=true"
+
     height="150"
+
     alt="Top Languages"
+
   />
+
 </p>
 
+
+
 ---
+
+
 
 ### 🚀 Featured Projects | Projetos em Destaque
 
+
+
 <table>
+
   <tr>
+
     <td width="50%">
+
       <h3 align="center">🏦 Upay</h3>
+
       <p align="center">
+
         <a href="https://github.com/anthonymengottii/upay_public" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonymengottii&repo=upay_public&theme=transparent&hide_border=true" />
+
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonymengottii&repo=upay_public&theme=transparent&hide_border=true" alt="Upay Repository" />
+
         </a>
+
       </p>
+
       <p align="center">
+
         <em>Next-generation payment gateway and digital banking infrastructure.</em><br/>
+
         <sub>Gateway de pagamentos e infraestrutura bancária digital.</sub>
+
       </p>
+
     </td>
+
     <td width="50%">
+
       <h3 align="center">📺 PagueStream</h3>
+
       <p align="center">
-        <a href="https://github.com/anthonymengottii/paguestream" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonymengottii&repo=paguestream&theme=transparent&hide_border=true" />
+
+        <a href="https://github.com/anthonymengottii/paguestream_public" target="_blank">
+
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonymengottii&repo=paguestream_public&theme=transparent&hide_border=true" alt="PagueStream Repository" />
+
         </a>
+
       </p>
+
       <p align="center">
-        <em>Streaming monetization platform powered by fintech technology.</em><br/>
-        <sub>Plataforma de monetização de streaming com tecnologia financeira.</sub>
+
+        <em>Streaming monetization platform powered by fintech technology. 🚀 In Production</em><br/>
+
+        <sub>Plataforma de monetização de streaming com tecnologia financeira. 🚀 Em Produção</sub><br/>
+
+        <a href="https://paguestream.com/" target="_blank">🌐 Site em Produção</a>
+
       </p>
+
     </td>
+
   </tr>
+
 </table>
 
+
+
 ---
+
+
 
 ### 🧩 Current Focus | Foco Atual
 
+
+
 **🇺🇸 EN:**  
+
 Building next-generation payment ecosystems connecting digital banking, streaming, and real-time financial data.
 
+
+
 **🇧🇷 PT:**  
+
 Construindo ecossistemas de pagamento de nova geração conectando banco digital, streaming e dados financeiros em tempo real.
 
+
+
 ---
+
+
 
 ### 🧭 Philosophy | Filosofia
 
-> “The future belongs to those who can architect it.”  
-> “O futuro pertence àqueles que são capazes de arquitetá-lo.”
+
+
+> "The future belongs to those who can architect it."  
+
+> "O futuro pertence àqueles que são capazes de arquitetá-lo."
+
+
 
 ---
 
+
+
 <p align="center">
+
   <sub>💡 Designed to reflect the simplicity and precision of engineering — by <strong>Anthony Mengotti</strong></sub>
+
 </p>
