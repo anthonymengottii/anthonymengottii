@@ -68,7 +68,7 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
     <td width="50%">
       <h3 align="center">📺 PagueStream</h3>
       <p align="center">
-        <a href="https://github.com/anthonymengottii/paguestream" target="_blank">
+        <a href="https://github.com/anthonymengottii/paguestream_public" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonymengottii&repo=paguestream_public&theme=transparent&hide_border=true" />
         </a>
       </p>
