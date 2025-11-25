@@ -86,13 +86,6 @@ Construindo ecossistemas de pagamento de nova geração conectando banco digital
 
 ---
 
-### 🧭 Philosophy | Filosofia
-
-> “The future belongs to those who can architect it.”  
-> “O futuro pertence àqueles que são capazes de arquitetá-lo.”
-
----
-
 <p align="center">
   <sub>💡 Designed to reflect the simplicity and precision of engineering — by <strong>Anthony Mengotti</strong></sub>
 </p>
