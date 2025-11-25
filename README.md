@@ -54,16 +54,17 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 <table>
   <tr>
     <td width="50%">
+      <a href="https://github.com/anthonymengottii/upay_public" target="_blank">
       <h3 align="center">🏦 Upay</h3>
       <p align="center">
         <a href="https://github.com/anthonymengottii/upay_public" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonymengottii&repo=upay_public&theme=transparent&hide_border=true" />
         </a>
       </p>
       <p align="center">
         <em>Next-generation payment gateway and digital banking infrastructure.</em><br/>
         <sub>Gateway de pagamentos e infraestrutura bancária digital.</sub>
       </p>
+      </a>
     </td>
     <td width="50%">
       <h3 align="center">📺 PagueStream</h3>
