@@ -32,15 +32,6 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 
 ---
 
-### 📊 GitHub Stats | Estatísticas 
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonymengottii&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github" height="150" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymengottii&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" /> 
-</p>
-
----
-
 ### 🚀 Featured Projects | Projetos em Destaque
 
 <table>
