@@ -56,6 +56,7 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
     <td width="50%">
       <a href="https://github.com/anthonymengottii/upay_public" target="_blank">
       <h3 align="center">🏦 Upay</h3>
+      </a>
       <p align="center">
         <a href="https://github.com/anthonymengottii/upay_public" target="_blank">
         </a>
@@ -64,7 +65,6 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
         <em>Next-generation payment gateway and digital banking infrastructure.</em><br/>
         <sub>Gateway de pagamentos e infraestrutura bancária digital.</sub>
       </p>
-      </a>
     </td>
     <td width="50%">
       <h3 align="center">📺 PagueStream</h3>
