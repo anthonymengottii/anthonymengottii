@@ -32,20 +32,11 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 
 ---
 
-### 📊 GitHub Stats | Estatísticas
+### 📊 GitHub Stats | Estatísticas 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositories-Click%20to%20View-0A0A0A?style=for-the-badge" alt="Repos"/>
-  <a href="https://github.com/anthonymengottii?tab=repositories">
-    <img src="https://img.shields.io/badge/All%20Repos-Here-1a73e8?style=for-the-badge" alt="All Repos"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/users/anthonymengottii/achievements">
-    <img src="https://img.shields.io/badge/Achievements-GitHub-FFD700?style=for-the-badge" alt="Achievements"/>
-  </a>
-  <img src="https://img.shields.io/badge/Languages-TS%20%7C%20Node%20%7C%20React%20%7C%20Python-333?style=for-the-badge" alt="Langs"/>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonymengottii&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github" height="150" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymengottii&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" /> 
 </p>
 
 ---
