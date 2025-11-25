@@ -55,29 +55,32 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
   <tr>
     <!-- UPay -->
     <td width="50%">
-      <a href="https://github.com/anthonymengottii/upay_public" target="_blank" style="text-decoration: none;">
-        <h3 align="center">🏦 Upay</h3>
-        <p align="center" style="font-size: 60px;">💳</p>
-        <p align="center">
-          <em>Next-generation payment gateway and digital banking infrastructure.</em><br/>
-          <sub>Gateway de pagamentos e infraestrutura bancária digital.</sub>
-        </p>
-      </a>
+      <h3 align="center">🏦 Upay</h3>
+      <p align="center">
+        <a href="https://github.com/anthonymengottii/upay_public" target="_blank">
+          https://github.com/anthonymengottii/upay_public
+        </a>
+      </p>
+      <p align="center">
+        <em>Next-generation payment gateway and digital banking infrastructure.</em><br/>
+        <sub>Gateway de pagamentos e infraestrutura bancária digital.</sub>
+      </p>
     </td>
     <!-- PagueStream -->
     <td width="50%">
-      <a href="https://github.com/anthonymengottii/paguestream_public" target="_blank" style="text-decoration: none;">
-        <h3 align="center">📺 PagueStream</h3>
-        <p align="center" style="font-size: 60px;">🎥</p>
-        <p align="center">
-          <em>Streaming monetization platform powered by fintech technology.</em><br/>
-          <sub>Plataforma de monetização de streaming com tecnologia financeira.</sub>
-        </p>
-      </a>
+      <h3 align="center">📺 PagueStream</h3>
+      <p align="center">
+        <a href="https://github.com/anthonymengottii/paguestream_public" target="_blank">
+          https://github.com/anthonymengottii/paguestream_public
+        </a>
+      </p>
+      <p align="center">
+        <em>Streaming monetization platform powered by fintech technology.</em><br/>
+        <sub>Plataforma de monetização de streaming com tecnologia financeira.</sub>
+      </p>
     </td>
   </tr>
 </table>
-
 
 ---
 
