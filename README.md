@@ -78,5 +78,5 @@ Construindo ecossistemas de pagamento de nova geração conectando banco digital
 ---
 
 <p align="center">
-  <sub>💡 Designed to reflect the simplicity and precision of engineering — by <strong>Anthony Mengotti</strong></sub>
+  <sub>CTO com formação prática, experiência real em fintech e histórico robusto em projetos de alto risco.</sub>
 </p>
