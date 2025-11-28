@@ -70,13 +70,13 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 ### 🧩 Current Focus | Foco Atual
 
 **🇺🇸 EN:**  
-Building next-generation payment ecosystems connecting digital banking, streaming, and real-time financial data.
+Architecting high-performance financial platforms that unify digital banking, streaming monetization, and real-time risk intelligence.
 
 **🇧🇷 PT:**  
-Construindo ecossistemas de pagamento de nova geração conectando banco digital, streaming e dados financeiros em tempo real.
+Arquitetando plataformas financeiras de alta performance que unificam banco digital, monetização para streaming e inteligência de risco em tempo real.
 
 ---
 
 <p align="center">
-  <sub>CTO com formação prática, experiência real em fintech e histórico robusto em projetos de alto risco.</sub>
+  <sub>CTO com execução prática, experiência sólida em fintech e histórico comprovado em sistemas críticos e de alto risco.</sub>
 </p>
