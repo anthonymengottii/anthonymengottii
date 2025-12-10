@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hey, I'm Anthony Mengotti</h1>
 <h3 align="center">CTO @ Upay • Creator of PagueStream • Fintech & Tech Builder</h3>
+<h3 align="center">CTO com execução prática, experiência sólida em fintech e histórico comprovado em sistemas críticos e de alto risco.</h3>
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anthony-mengotti-50026424a/" target="_blank">
