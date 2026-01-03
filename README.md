@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey, I'm Anthony Mengotti</h1>
-<h3 align="center">CTO @ Upay • Creator of PagueStream • Fintech & Tech Builder</h3>
-
+<h3 align="center">CTO @ Upay • Fintech & Tech Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anthony-mengotti-50026424a/" target="_blank">
@@ -17,11 +16,11 @@
 
 **🇺🇸 EN:**  
 I'm a fintech-focused software architect and product strategist, passionate about building scalable payment infrastructures and seamless digital experiences.  
-Currently, I'm **CTO at Upay**, leading architecture and innovation, and the **creator of PagueStream**, a platform focused on streaming monetization.  
+Currently, I'm **CTO at Upay**, leading architecture, innovation, and the development of high-performance financial systems.
 
 **🇧🇷 PT:**  
 Sou arquiteto de software e estrategista de produto com foco em fintechs, apaixonado por criar infraestruturas de pagamento escaláveis e experiências digitais fluidas.  
-Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador da PagueStream**, plataforma voltada à monetização de streaming.
+Atualmente sou **CTO da Upay**, liderando arquitetura, inovação e o desenvolvimento de sistemas financeiros de alta performance.
 
 ---
 
@@ -37,8 +36,7 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 
 <table>
   <tr>
-    <!-- UPay -->
-    <td width="50%">
+    <td width="100%">
       <h3 align="center">🏦 Upay</h3>
       <p align="center">
         <a href="https://github.com/anthonymengottii/upay_public" target="_blank">
@@ -50,19 +48,6 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
         <sub>Gateway de pagamentos e infraestrutura bancária digital.</sub>
       </p>
     </td>
-    <!-- PagueStream -->
-    <td width="50%">
-      <h3 align="center">📺 PagueStream</h3>
-      <p align="center">
-        <a href="https://github.com/anthonymengottii/paguestream_public" target="_blank">
-          https://github.com/anthonymengottii/paguestream_public
-        </a>
-      </p>
-      <p align="center">
-        <em>Streaming monetization platform powered by fintech technology.</em><br/>
-        <sub>Plataforma de monetização de streaming com tecnologia financeira.</sub>
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -71,10 +56,10 @@ Atualmente sou **CTO da Upay**, liderando arquitetura e inovação, e **criador 
 ### 🧩 Current Focus | Foco Atual
 
 **🇺🇸 EN:**  
-Architecting high-performance financial platforms that unify digital banking, streaming monetization, and real-time risk intelligence.
+Architecting high-performance financial platforms focused on digital banking, payment orchestration, and real-time risk intelligence.
 
 **🇧🇷 PT:**  
-Arquitetando plataformas financeiras de alta performance que unificam banco digital, monetização para streaming e inteligência de risco em tempo real.
+Arquitetando plataformas financeiras de alta performance com foco em banco digital, orquestração de pagamentos e inteligência de risco em tempo real.
 
 ---
 
