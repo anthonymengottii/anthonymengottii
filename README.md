@@ -12,18 +12,6 @@
 
 ---
 
-### 🧠 About Me | Sobre mim
-
-**🇺🇸 EN:**  
-I'm a fintech-focused software architect and product strategist, passionate about building scalable payment infrastructures and seamless digital experiences.  
-Currently, I'm **CTO at Upay**, leading architecture, innovation, and the development of high-performance financial systems.
-
-**🇧🇷 PT:**  
-Sou arquiteto de software e estrategista de produto com foco em fintechs, apaixonado por criar infraestruturas de pagamento escaláveis e experiências digitais fluidas.  
-Atualmente sou **CTO da Upay**, liderando arquitetura, inovação e o desenvolvimento de sistemas financeiros de alta performance.
-
----
-
 ### ⚙️ Tech Stack | Stack Técnica
 
 <p align="center">
@@ -60,9 +48,3 @@ Architecting high-performance financial platforms focused on digital banking, pa
 
 **🇧🇷 PT:**  
 Arquitetando plataformas financeiras de alta performance com foco em banco digital, orquestração de pagamentos e inteligência de risco em tempo real.
-
----
-
-<p align="center">
-  <sub>CTO com execução prática, experiência sólida em fintech e histórico comprovado em sistemas críticos e de alto risco.</sub>
-</p>
