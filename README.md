@@ -47,7 +47,7 @@
         </a>
       </p>
       <p align="center">
-        <em>Interactive 3D portfolio featuring React Three Fiber and GSAP.</em><br/>
+        <em>Interactive 3D portfolio featuring React and ThreeJS.</em><br/>
         <sub>Portfólio interativo 3D focado em performance e animações.</sub>
       </p>
     </td>
