@@ -53,13 +53,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🧩 Current Focus | Foco Atual
-
-**🇺🇸 EN:**  
-Architecting high-performance financial platforms focused on digital banking, payment orchestration, and real-time risk intelligence.
-
-**🇧🇷 PT:**  
-Arquitetando plataformas financeiras de alta performance com foco em banco digital, orquestração de pagamentos e inteligência de risco em tempo real.
