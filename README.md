@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Anthony Mengotti</h1>
-<h3 align="center">Co-founder @ Upay • Fintech & Tech Builder</h3>
+<h3 align="center">Full Stack • Fintech & Tech Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anthony-mengotti-50026424a/" target="_blank">
@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏦 Upay</h3>
+      <h3 align="center">Upay White-Label</h3>
       <p align="center">
         <a href="https://github.com/anthonymengottii/upay_public" target="_blank">
           github.com/anthonymengottii/upay_public
