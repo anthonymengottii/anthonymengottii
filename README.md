@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Featured Projects | Projetos em Destaque
+### Featured Projects | Projetos em Destaque
 
 <table>
   <tr>
@@ -40,7 +40,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 3D Portfolio</h3>
+      <h3 align="center"> 3D Portfolio</h3>
       <p align="center">
         <a href="https://anthonymengottii.github.io" target="_blank">
           anthonymengottii.github.io
