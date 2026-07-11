@@ -15,7 +15,7 @@
 
 ---
 
-### ⚙️ Tech Stack | Stack Técnica
+### Tech Stack | Stack Técnica
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,python,prisma,mongodb,postgres,docker,git,linux" />
